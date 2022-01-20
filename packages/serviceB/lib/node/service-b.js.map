@@ -1,0 +1,1 @@
+{"version":3,"file":"service-b.js","sourceRoot":"","sources":["../../src/node/service-b.ts"],"names":[],"mappings":";;;;;;;;;AAAA,2CAA6C;AAC7C,qCAAkC;AAGlC,IAAa,YAAY,GAAzB,MAAa,YAAY;IACrB,GAAG;QACC,OAAO,OAAO,CAAC,OAAO,CAAC,WAAW,CAAC,CAAC;IACxC,CAAC;CACJ,CAAA;AAJY,YAAY;IADxB,IAAA,SAAG,EAAC,cAAQ,CAAC;GACD,YAAY,CAIxB;AAJY,oCAAY"}

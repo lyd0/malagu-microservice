@@ -1,0 +1,7 @@
+targets:
+  - backend
+malagu:
+  cloud:
+    function:
+      name: ServiceA
+

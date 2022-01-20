@@ -1,0 +1,6 @@
+targets:
+  - backend
+malagu:
+  cloud:
+    function:
+      name: ServiceB

@@ -1,0 +1,6 @@
+malagu:
+  rpc:
+    # 将默认的微服务 Endpoint 改成您自己的
+    endpoint: 
+      ServiceA: https://service-3o519rtw-1253256225.in.apigw.tencentcs.com/api
+      ServiceB: https://service-riowlune-1253256225.in.apigw.tencentcs.com/api
